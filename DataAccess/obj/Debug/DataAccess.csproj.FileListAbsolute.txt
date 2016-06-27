@@ -1,0 +1,8 @@
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\bin\Debug\DataAccess.dll
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\obj\Debug\DataAccess.dll
+c:\users\dkjayasinghe\documents\visual studio 2015\Projects\Applicaion_Service\DataAccess\obj\Debug\DataAccess.pdb
